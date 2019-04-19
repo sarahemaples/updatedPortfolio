@@ -1,0 +1,30 @@
+body {
+    margin-top: 56px;
+    color:	#2F4F4F;
+    margin-bottom: 30px
+}
+
+#nav-header {
+    background-color:#fcffb3;
+}
+
+#about-me-header {
+    background-color:#adfaff;
+}
+
+#portfolio-header {
+    background-color:#74fec7;
+}
+
+#hellbound-header {
+    background-color:#fea7ef;
+}
+
+#contact-footer {
+    background-color:#ceb1ff;
+}
+
+#contact-links-container {
+    width: fit-content;
+    margin: auto;
+}

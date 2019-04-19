@@ -11,6 +11,12 @@ router.get("/", function(req, res){
     res.render("index");
 });
 
+// route to portfolio page
+router.get("/portfolio", function(req, res){
+    console.log('youre on the right track..');
+    res.render("portfolio");
+})
+
 // router.post("/api/burgers", function(req, res){
 //     console.log("req.body", req.body);
 //     burger.create(["burger_name", "devoured"], [req.body.burger_name, req.body.devoured], function(result){
