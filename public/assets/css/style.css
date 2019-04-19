@@ -1,7 +1,8 @@
 body {
     margin-top: 56px;
     color:	#2F4F4F;
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    background-color: 74fec7;
 }
 
 #nav-header {
@@ -27,4 +28,16 @@ body {
 #contact-links-container {
     width: fit-content;
     margin: auto;
+}
+
+/* ------------------------------ */
+/* styling for the portfolio page */
+/* ------------------------------ */
+#portfolio-container {
+    background-color:#74fec7; 
+    padding: 10px;
+}
+
+.container-card {
+    width: 100%;
 }

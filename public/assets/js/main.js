@@ -5,6 +5,7 @@ $(function() {
         // go to thee /portfolio route it works, so we can link this later teehee
         $.get("/portfolio").then(function(data) {
             console.log(data);
+            location.reload();
         });
     });
 
