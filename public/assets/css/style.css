@@ -5,6 +5,10 @@ body {
     background-color: 74fec7;
 }
 
+.mbr-section {
+    padding: 64px;
+}
+
 #nav-header {
     background-color:#fcffb3;
 }
