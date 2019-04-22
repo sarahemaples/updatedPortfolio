@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/sarahemaples/updatedPortfolio/issues"
   },
-  "homepage": "https://github.com/sarahemaples/updatedPortfolio#readme"
+  "homepage": "https://github.com/sarahemaples/updatedPortfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
 }
