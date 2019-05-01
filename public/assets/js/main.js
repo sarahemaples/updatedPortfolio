@@ -1,3 +1,5 @@
+
+
 // here we can grab all the data from our form
 $(function() {
     $("#portfolio-btn").on("click", function(e) {
@@ -10,3 +12,7 @@ $(function() {
     });
 
 });
+
+$(document).ready(function() {
+    console.log("linked");
+})
