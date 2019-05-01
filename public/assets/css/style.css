@@ -37,13 +37,14 @@ body {
 /* ------------------------------ */
 /* styling for the portfolio page */
 /* ------------------------------ */
-#portfolio-container {
-    background-color:#74fec7; 
-    padding: 10px;
+
+.card {
+    margin: 10px;
 }
 
-.container-card {
-    width: 100%;
+.prof-link-wrapper {
+    width: fit-content;
+    margin: auto;
 }
 
 /* FontAwesome for working BootSnippet :> */
@@ -51,6 +52,7 @@ body {
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #portfolio {
     background: #74fec7 !important;
+    height: 100%;
 }
 
 .btn-primary:hover,
